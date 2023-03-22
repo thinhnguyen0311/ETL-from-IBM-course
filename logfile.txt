@@ -1,0 +1,8 @@
+2023-Mar-22-11:11:45, ETL Start
+2023-Mar-22-11:11:45, Extract phase Start
+2023-Mar-22-11:11:46, Extract phase End
+2023-Mar-22-11:11:46, Transform phase Start
+2023-Mar-22-11:11:46, Transform phase End
+2023-Mar-22-11:11:46, Load phase Start
+2023-Mar-22-11:11:46, Load phase End
+2023-Mar-22-11:11:46, ETL End
